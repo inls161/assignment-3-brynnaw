@@ -25,7 +25,7 @@ cultural impact of the **state** and its **religion** on the work.
 Throughout the reign of the Egyptian Empire, the role of **religion** and
 **state** dominated most aspects of people’s lives. The leader of the **state**,
 the pharaoh, was even believed to become a deity when he or she died.
-The Palette of Narmer from Early Dynastic Egypt was a tool used to mix
+The **Palette of Narmer** from Early Dynastic Egypt was a tool used to mix
 and grind materials for makeup. On one side of the palette, Narmer is
 depicted wearing the white crown of Upper Egypt about to crush the head
 of a foe with the help of a falcon shown to his right, believed to be
@@ -37,8 +37,8 @@ authority through associating the King’s power with that of the Gods. By
 implementing this subject matter rather than merely an eye-pleasing
 design, the influence of the **state** becomes evident.
 
-In addition to the Palette of Narmer among Egyptian works of **art,** the
-Hypostyle Hall of Rameses II in the Temple of Amun serves as another
+In addition to the *Palette of Narmer* among Egyptian works of **art,** the
+*Hypostyle Hall of Rameses II* in the Temple of Amun serves as another
 example of the far-reaching influence of **religion**. The temple was built
 in nineteenth dynasty and the Hypostyle Hall was designed around the
 Creation Story of the Egyptians. The columns featured detailed pictorial
@@ -58,7 +58,7 @@ The Greeks, while differing from the Egyptians in prominent elements of
 culture including **religion** and government structure, created artwork
 that continued to embody the power of their gods and emperors more so
 than the style of the individual artist. This pattern is seen in the
-Altar of Zeus, which was erected during the Hellenistic Period of
+*Altar of Zeus*, which was erected during the Hellenistic Period of
 Greece. The single-story ionic style temple had elaborate sculptures
 carved into the frieze, which extended around the whole base of the
 building. This frieze depicts the battle between the giants and the gods
@@ -71,7 +71,7 @@ through the analogy of the gods and the giants with the Greeks and the
 barbarians—once again, the **state** and its **religion** are connected and
 together form the central themes of the building.
 
-The statue Augustus of Primaporta was created in the Early Imperial
+The statue *Augustus of Primaporta* was created in the Early Imperial
 Period of the Roman Empire. The piece shows Augustus as a Roman General
 with his arm extended in a commanding pose. Cupid is riding a dolphin
 near Augustus’ right leg, referencing the claim that the emperor’s
@@ -107,7 +107,7 @@ overall theme itself.
 After the reign of the Greeks and Romans in the western world, the
 Empire of Byzantium became the dominant civilization of the area. The
 connection between the emperor and the gods/goddesses of the **religion**
-remains in the Byzantine works of Art. Specifically, the Hagia Sophia
+remains in the Byzantine works of Art. Specifically, the *Hagia Sophia*
 was built by Emperor Justinian in an effort to build a church to convey
 the imperial and Christian power. In order to do so, the huge central
 dome was built to appear as if it is mysteriously floating due to the
@@ -136,10 +136,10 @@ works of art.
 
 Title of Work | Image
 --------------|------
-Palette of Narmer | ![Alt Text](http://www.mummies2pyramids.info/images/narmer-palette-a.jpg)
-Hypostyle Hall of Rameses II | ![Alt Text](https://s-media-cache-ak0.pinimg.com/564x/ab/5d/74/ab5d747dc375cfea4be262d747c69b05.jpg)
-Altar of Zeus | ![Alt Text](https://classconnection.s3.amazonaws.com/1392/flashcards/659065/jpg/42.2.jpg)
-Augustus of Primaporta | ![Alt Text](http://www.challies.com/sites/all/files/attachments/augutus-prima-porta-1.jpg)
-Sarcophagi of Junius Bassus | ![Alt Text](https://upload.wikimedia.org/wikipedia/commons/1/1e/Sarcophagus_of_Junius_Bassus_-_Cast_in_Rome.jpg)
-Hagia Sophia | ![Alt Text](https://s-media-cache-ak0.pinimg.com/originals/3d/76/c5/3d76c52e4e2735e25f62d56e8d270f18.jpg)
+**Palette of Narmer** | ![Alt Text](http://www.mummies2pyramids.info/images/narmer-palette-a.jpg)
+*Hypostyle Hall of Rameses II* | ![Alt Text](https://s-media-cache-ak0.pinimg.com/564x/ab/5d/74/ab5d747dc375cfea4be262d747c69b05.jpg)
+*Altar of Zeus* | ![Alt Text](https://classconnection.s3.amazonaws.com/1392/flashcards/659065/jpg/42.2.jpg)
+*Augustus of Primaporta* | ![Alt Text](http://www.challies.com/sites/all/files/attachments/augutus-prima-porta-1.jpg)
+*Sarcophagi of Junius Bassus* | ![Alt Text](https://upload.wikimedia.org/wikipedia/commons/1/1e/Sarcophagus_of_Junius_Bassus_-_Cast_in_Rome.jpg)
+*Hagia Sophia* | ![Alt Text](https://s-media-cache-ak0.pinimg.com/originals/3d/76/c5/3d76c52e4e2735e25f62d56e8d270f18.jpg)
 
